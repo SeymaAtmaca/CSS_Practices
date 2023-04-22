@@ -1,0 +1,30 @@
+.search_container {
+    position: fixed;
+    right: 10%;
+    left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .article1 {
+    flex-basis: 100%;
+    background-color: beige;
+  }
+  
+  .article2 {
+    flex-basis: 26%;
+    background-color: aqua;
+  }
+  
+  .article3 {
+    flex-basis: 32%;
+    background-color: aquamarine;
+  }
+  
+  .article4 {
+    flex-basis: 40%;
+    height: 10em;
+    background-color: bisque;
+  }
+  
